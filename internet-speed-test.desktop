@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Internet Speed Test
+Comment=Measure download and upload speeds
+Exec=internet-speed-test
+Icon=applications-internet
+Terminal=false
+Categories=Network;Utility;
